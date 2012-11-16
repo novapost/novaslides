@@ -1,0 +1,30 @@
+######################
+Landslide for Novapost
+######################
+
+This repository contains base material to use `landslide`_ slides generator
+with a custom theme for `Novapost`_.
+
+
+*****
+Usage
+*****
+
+* Download this repository
+* Install with ``make install``
+* Create/edit :file:`src/index.rst`
+* Generate slides with ``make slides``
+* Open generated :file:`build/index.html` with your favorite browser
+
+.. note::
+
+   Slides are generated in embed mode, i.e. everything you need to carry is the
+   generated ".html" file.
+
+
+**********
+References
+**********
+
+.. _`landslide`: http://pypi.python.org/pypi/landslide
+.. _`Novapost`: http://www.novapost.fr

@@ -1,0 +1,22 @@
+# Local binaries (generated during install).
+/bin/
+
+# Local configuration (generated from templates).
+/etc/
+
+# External libraries (fetched and built).
+/lib/
+
+# External source files (managed with their own VCS).
+/src/
+
+# Data files.
+/build/
+
+# Python files.
+*.pyc
+*.pyo
+*.egg-info
+
+# Editors' temporary files.
+.*.swp
