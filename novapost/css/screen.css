@@ -44,7 +44,7 @@ div.slide {
   left: 50%;
   top: 50%;
   margin-top: -350px;
-  background-image: url('/home/benoit/web/presentations/lightning-talks/djangocon-toulouse-buildout/novapost/img/header.png');
+  background-image: url('../img/header.png');
   background-repeat: no-repeat;
   background-position: top;
   background-color: #eee;
