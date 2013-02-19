@@ -374,6 +374,10 @@ body.expose .slide.current {
   -o-transform-origin: 0 0;
 }
 
+ul li ul li {
+  font-size: 0.7em;
+}
+
 /* Pygments default theme */
 .hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */
