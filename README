@@ -14,7 +14,7 @@ Usage
 * Install with ``make install``
 * Create/edit :file:`src/index.rst`
 * Generate slides with ``make slides``
-* Open generated :file:`build/index.html` with your favorite browser
+* Open generated :file:`var/slides.html` with your favorite browser
 
 .. note::
 

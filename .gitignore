@@ -2,7 +2,7 @@
 /bin/
 
 # Local configuration (generated from templates).
-/etc/
+#/etc/
 
 # External libraries (fetched and built).
 /lib/
@@ -11,7 +11,7 @@
 /src/
 
 # Data files.
-/build/
+/var/
 
 # Python files.
 *.pyc
