@@ -12,6 +12,7 @@
 
 # Data files.
 /var/
+slides.html
 
 # Python files.
 *.pyc
