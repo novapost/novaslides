@@ -47,7 +47,7 @@ div.slide {
   background-image: url('../img/header.png');
   background-repeat: no-repeat;
   background-position: top;
-  background-color: #eee;
+  background-color: #e8eef2;
   /*background: -webkit-gradient(linear, left bottom, left top, from(#fff), to(#eeeeec));
   background-color: #eee;
   background: -moz-linear-gradient(bottom, #fff, #eeeeec);*/
@@ -321,7 +321,7 @@ body.expose div.slide {
   margin: 10px !important;
   -webkit-transition: none;
   -moz-transition: none;
-  -o-transition: none;  
+  -o-transition: none;
   -moz-transform: scale(.33, .33);
   -moz-transform-origin: 0 0;
   -webkit-transform: scale(.33, .33);
